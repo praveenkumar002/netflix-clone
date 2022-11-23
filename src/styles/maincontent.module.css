@@ -1,0 +1,29 @@
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.mainimage{
+    height: 60%;
+    width: 60%;
+    margin-bottom: 18px;
+}
+
+.maincontenthead{
+    letter-spacing: 6px;
+    margin-bottom: 10px;
+}
+
+.maincontentulist{
+    width: 50%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 14px;
+}
+
+.maincontentpara{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-size: 20px;
+}

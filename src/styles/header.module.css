@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 14px;
+    margin-bottom: 24px;
+    color: white;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    background-color: rgb(0, 0, 0);
+}
+
+.logo{
+    width: 6%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.ulist{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.listitemprofile {
+    background-color: rgb(78, 78, 78);
+    border-radius: 100%;
+    padding: 4px;
+    height: 32px;
+}
+.listitem{
+    margin-right: 14px;
+    letter-spacing: 2px;
+    font-size: 18px;
+    color: rgb(231, 231, 231);
+    font-weight: 600;
+}
